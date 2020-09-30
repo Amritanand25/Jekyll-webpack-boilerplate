@@ -4,6 +4,7 @@
 <h1 align="center">
   Jekyll-webpack-boilerplate
 </h1>
+<!-- Here all css code is written in line block but we can write css code in internal css and external css-->
 
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
